@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Rubik";
+    src: url(../fonts/Rubik/static/Rubik-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Rubik";
+    src: url(../fonts/Rubik/static/Rubik-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Noto_Sans";
+    src: url(../fonts/Noto_Sans/static/NotoSans_Condensed-Medium.ttf);
+    font-weight: 500;
+}
